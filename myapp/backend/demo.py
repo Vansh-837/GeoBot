@@ -1,0 +1,2 @@
+#store my openai Key
+OPENAI_API_KEY = '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'
